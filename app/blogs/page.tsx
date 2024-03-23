@@ -18,7 +18,7 @@ const getBlogs = async (): Promise< Blog[]  > => {
   return data
 };
 
-const Blogs: React.FC<{ blogs: Blog[] }> = async () => {
+const Blogs = async () => {
 
     const blogs = await getBlogs()
   return (
