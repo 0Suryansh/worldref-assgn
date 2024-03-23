@@ -1,0 +1,12 @@
+.blogs__heading{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+.blogs__main{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}

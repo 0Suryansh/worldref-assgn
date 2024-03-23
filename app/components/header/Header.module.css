@@ -1,0 +1,15 @@
+.header__wrapper{
+    background-color: white;
+    padding: 1rem;
+    border-bottom: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__menuItems{
+    color: black;
+    font-weight: 500;
+}
+.menu_gap{
+    margin-right: 2rem;
+}

@@ -1,0 +1,28 @@
+.googleLoginButton {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    justify-content: center;
+    padding: 2rem 1.5rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    transition: color 0.3s ease-in-out;
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    border-radius: 0.75rem;
+    cursor: pointer;
+}
+
+.googleLoginButton:hover {
+    background-color: #f2f2f2;
+}
+
+.googleLoginButton:focus {
+    outline: none;
+}
+
+.authBtnText {
+    margin-left: 4px;
+}

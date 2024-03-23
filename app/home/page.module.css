@@ -1,0 +1,14 @@
+.home__head{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.home_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modalBtnPlacement{
+    text-align: center;
+    margin-top: 2rem;
+}
